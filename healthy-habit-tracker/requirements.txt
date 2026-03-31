@@ -1,0 +1,7 @@
+# Healthy Habit Tracker - Dependencies
+# This project uses only Python standard library modules.
+# No external packages are required to run the core application.
+
+# Optional: for extended ML features or testing
+# scikit-learn>=1.0
+# numpy>=1.21
